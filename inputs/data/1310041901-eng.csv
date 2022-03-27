@@ -1,0 +1,42 @@
+﻿"Live births, by marital status of mother 1 2 3 4 5 6"
+"Frequency: Annual"
+"Table: 13-10-0419-01 (formerly CANSIM 102-4506)"
+"Release date: 2021-09-28"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography, place of residence of mother 7","Canada, place of residence of mother 8",,,,
+"Characteristics 9","Percentage of live births",,,,
+"Marital status of mother 10 11","2016","2017","2018","2019","2020"
+,"Percentage",,,,
+"Total, marital status of mother","100.0","100.0","100.0","100.0","100.0"
+"Marital status of mother, single (never married) 12","30.0","30.3","29.9","29.7","28.8"
+"Marital status of mother, married","60.8","61.4","61.7","62.0","61.4"
+"Marital status of mother, widowed","0.0","0.1","0.1","0.1","0.1"
+"Marital status of mother, divorced","0.8","0.7","0.7","0.7","0.6"
+"Marital status of mother, separated","0.3","0.4","0.3","0.3","0.3"
+"Marital status of mother, not stated 12 13","8.1","7.2","7.2","7.3","8.8"
+
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Vital Statistics - Birth database (CVSB)"
+2,"Live birth is the complete expulsion or extraction from its mother of a product of conception, irrespective of the duration of the pregnancy, which, after such separation, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached."
+3,"During the production of each year's birth/death/stillbirth statistics, data from previous years may be revised to reflect any updates or changes that have been received from the provincial and territorial vital statistics registrars."
+4,"2017 to 2020 data for Yukon are not available."
+5,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. As a result, there may have been fewer births and stillbirths captured by the time of the release. The 2017 and 2018 data were revised on September 29, 2020 and the 2019 data are considered preliminary."
+6,"As a result of delays with birth registrations, fewer births have been captured to date for Manitoba in 2020."
+7,"The geographic distribution of live births in this table is based on the mother's usual place of residence."
+8,"Unknown province or territory of residence of mother, refers to live births to mothers who are residents of Canada, with unknown province or territory of residence."
+9,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act."
+10,"Marital status of mother refers to her legal conjugal status at the time of the birth. Persons in common-law relationships are assigned to their legal marital status category. A single person is one who has never been married, or a person whose marriage has been annulled and who has not remarried. A separated person is legally married but is not living with his or her spouse because the couple no longer wants to live together. A divorced person is one who has obtained a legal divorce and has not remarried. A married person is one who is legally married and not separated. A person whose spouse has died and who has not remarried is widowed."
+11,"Partway through 2003, Alberta Registries amended their Registration of Birth form in such a way that Statistics Canada can no longer determine the legal marital status of those persons in common-law marriages."
+12,"Prior to 2015, Alberta coded "legally married" mothers as married and mothers "not legally married" as unknown/not stated marital status. As of 2015, Alberta began coding "not legally married" mothers as being single."
+13,"In 2016, Saskatchewan changed their birth certificate in such a way that allowed mothers to declare common-law as their marital status. Since common-law is not a legal marital status (single-never married, married, divorced, separated, and widowed), the legal marital status of these mothers are coded as "unknown/not stated"."
+
+
+
+"How to cite: Statistics Canada. Table 13-10-0419-01  Live births, by marital status of mother"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310041901
